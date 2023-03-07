@@ -15,7 +15,7 @@
 
 - 📫 You can reach me on **VaibhavFarkade@outlook.com** or 🕊️⬇️
 
-- ⚡ Fun fact: I generated this image using DALL E2
+- ⚡ Fun fact: I generated this image using DALL·E 2
 
 
 ## Languages and Tools:
